@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+}
+
+.App-header {
+  top: -10px;
+  left: 1%;
+  width: 98%;
+  position: absolute;
+  background-color: #2d333f;
+  min-height: 8vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(1px + 2vmin);
+  color: white;
+  border-radius: 75px;
+}

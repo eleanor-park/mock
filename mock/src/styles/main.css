@@ -1,0 +1,17 @@
+/*
+  This is a reasonable starting point for the CSS in Mock.
+  Positioning in CSS can sometimes be annoying to manage, so we've opted to 
+  give you this starter CSS. Feel free to modify it as you wish, though.
+*/
+
+.login-button {
+  z-index: 100;
+  margin: auto;
+  display: block;
+  position: absolute;
+  top: 150px;
+  border-radius: 20px;
+  border-color: rgb(71, 163, 179);
+  border-width: 4px;
+  background-color: rgb(152, 210, 229);
+}
